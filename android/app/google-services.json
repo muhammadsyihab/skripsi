@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "757366815481",
+    "project_id": "pt-aneka",
+    "storage_bucket": "pt-aneka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757366815481:android:02aa460b14d8b00d80c028",
+        "android_client_info": {
+          "package_name": "com.neumedira.aneka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757366815481-gsmad9ab9qk46b6giscckaijnkjbq5cn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neumedira.aneka",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "757366815481-ld924apj3enve8kjv0f09a4nv718fmrt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADotd7vyOCBQkmDSdvKKvdzvbxMMAnt4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757366815481-ld924apj3enve8kjv0f09a4nv718fmrt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "757366815481-mkd9iifi4rb9i9ugts98gt2hn45076qi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.neumedira.aneka"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
